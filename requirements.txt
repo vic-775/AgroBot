@@ -11,6 +11,3 @@ langchain-community
 sentence-transformers
 tf-keras
 chromadb
-
-streamlit
-tensorflow
