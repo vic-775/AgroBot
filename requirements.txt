@@ -1,0 +1,16 @@
+tensorflow
+streamlit
+gdown
+numpy
+Pillow
+
+langchain
+langchain-groq
+python-dotenv
+langchain-community
+sentence-transformers
+tf-keras
+chromadb
+
+streamlit
+tensorflow
