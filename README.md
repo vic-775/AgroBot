@@ -12,5 +12,5 @@ AgroBot is a Generative AI-powered chatbot designed to assist farmers with plant
 
 ![Chatbot Screenshot](images/img2.JPG)
 ![Chatbot Screenshot](images/img1.JPG)
-![Chatbot Screenshot](images/img3.JPG)
 ![Chatbot Screenshot](images/img4.JPG)
+![Chatbot Screenshot](images/img3.JPG)
